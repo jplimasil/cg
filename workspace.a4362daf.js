@@ -375,7 +375,7 @@ parcelRequire = function(e, r, t, n) {
                     e.main()
                 }
                 ,
-                i.src = "mario.gif",
+                i.src = "/img/mario.gif",
                 e
             }
             return p(n, e.default),
